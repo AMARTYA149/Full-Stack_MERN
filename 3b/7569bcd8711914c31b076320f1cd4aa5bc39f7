@@ -1,0 +1,18 @@
+tsconfig.json
+  h_8bc4f3d6bd21bd 1-44
+package-lock.json
+  h_8bc4f3d6bd21bd 1-409
+package.json
+  h_8bc4f3d6bd21bd 10-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "3b7569bcd8711914c31b076320f1cd4aa5bc39f7",
+  "prompts": {},
+  "humans": {
+    "h_8bc4f3d6bd21bd": {
+      "author": "amartya149 <amartya970914@gmail.com>"
+    }
+  }
+}
