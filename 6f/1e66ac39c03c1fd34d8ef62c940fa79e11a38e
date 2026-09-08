@@ -1,0 +1,19 @@
+.husky/pre-commit
+  h_8bc4f3d6bd21bd 1
+package.json
+  h_8bc4f3d6bd21bd 14-19,27
+  h_8bc4f3d6bd21bd 2-13,20-26,28-32
+package-lock.json
+  h_8bc4f3d6bd21bd 2-146,148-1803,1805
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "6f1e66ac39c03c1fd34d8ef62c940fa79e11a38e",
+  "prompts": {},
+  "humans": {
+    "h_8bc4f3d6bd21bd": {
+      "author": "amartya149 <amartya970914@gmail.com>"
+    }
+  }
+}
