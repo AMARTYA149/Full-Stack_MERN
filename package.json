@@ -1,15 +1,23 @@
 {
-  "name": "full-stack_mern",
-  "version": "1.0.0",
-  "description": "Full Stack MERN application",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Amartya Aishwarya",
-  "license": "ISC",
-  "devDependencies": {
-    "@types/node": "^26.4.1",
-    "typescript": "^7.0.2"
-  }
+    "name": "full-stack_mern",
+    "version": "1.0.0",
+    "description": "Full Stack MERN application",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "format:fix": "prettier . --write",
+        "format:check": "prettier . --check",
+        "lint:fix": "eslint . --fix",
+        "lint:check": "eslint ."
+    },
+    "author": "Amartya Aishwarya",
+    "license": "ISC",
+    "devDependencies": {
+        "@eslint/js": "^10.0.1",
+        "@types/node": "^26.4.1",
+        "eslint": "^10.10.0",
+        "prettier": "3.9.6",
+        "typescript": "^6.0.3",
+        "typescript-eslint": "^8.69.0"
+    }
 }
