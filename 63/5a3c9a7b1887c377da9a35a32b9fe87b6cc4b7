@@ -1,0 +1,27 @@
+.prettierignore
+  h_8bc4f3d6bd21bd 1-3
+eslint.config.mjs
+  h_8bc4f3d6bd21bd 1-26
+src/server.ts
+  h_8bc4f3d6bd21bd 1-6
+.prettierrc
+  h_8bc4f3d6bd21bd 1-3
+package.json
+  h_8bc4f3d6bd21bd 7-11,16,18-21
+  h_8bc4f3d6bd21bd 2-6,12-15,17,22
+package-lock.json
+  h_8bc4f3d6bd21bd 2-1371
+tsconfig.json
+  h_8bc4f3d6bd21bd 2-6,8-16,18-21,23-25,27-33,35-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "635a3c9a7b1887c377da9a35a32b9fe87b6cc4b7",
+  "prompts": {},
+  "humans": {
+    "h_8bc4f3d6bd21bd": {
+      "author": "amartya149 <amartya970914@gmail.com>"
+    }
+  }
+}
