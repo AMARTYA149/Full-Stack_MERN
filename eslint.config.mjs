@@ -17,11 +17,11 @@ export default defineConfig(
                 projectService: true,
             },
         },
-        
+
         rules: {
             // "no-console": "error",
             // "dot-notation": "error"
-        }
+        },
     },
-    { ignores: ["dist", "node_modules"] }
+    { ignores: ["dist", "node_modules"] },
 );
