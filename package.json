@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "Full Stack MERN application",
     "main": "index.js",
+    "type": "module",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "format:fix": "prettier . --write",
@@ -28,5 +29,8 @@
         "prettier": "3.9.6",
         "typescript": "^6.0.3",
         "typescript-eslint": "^8.69.0"
+    },
+    "dependencies": {
+        "dotenv": "^17.4.2"
     }
 }
