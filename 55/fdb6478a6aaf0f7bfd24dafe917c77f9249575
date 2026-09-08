@@ -1,0 +1,23 @@
+src/config/logger.ts
+  h_8bc4f3d6bd21bd 1-38
+  h_8bc4f3d6bd21bd 39-41
+src/server.ts
+  h_8bc4f3d6bd21bd 3,8-10
+tsconfig.json
+  h_8bc4f3d6bd21bd 7-8
+package-lock.json
+  h_8bc4f3d6bd21bd 13-14,20,55-63,77-87,334-343,491-507,880-885,1095-1140,1302-1307,1632-1637,1718-1723,2057-2068,2100-2105,2215-2240,2450-2458,2697-2710,2777-2805,3014-3022,3032-3040,3097-3102,3162-3170,3343-3348,3381-3416
+package.json
+  h_8bc4f3d6bd21bd 27,39-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "55fdb6478a6aaf0f7bfd24dafe917c77f9249575",
+  "prompts": {},
+  "humans": {
+    "h_8bc4f3d6bd21bd": {
+      "author": "amartya149 <amartya970914@gmail.com>"
+    }
+  }
+}
