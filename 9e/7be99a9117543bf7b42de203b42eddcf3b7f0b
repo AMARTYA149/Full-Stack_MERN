@@ -1,0 +1,14 @@
+eslint.config.mjs
+  h_8bc4f3d6bd21bd 20,24,26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "9e7be99a9117543bf7b42de203b42eddcf3b7f0b",
+  "prompts": {},
+  "humans": {
+    "h_8bc4f3d6bd21bd": {
+      "author": "amartya149 <amartya970914@gmail.com>"
+    }
+  }
+}
