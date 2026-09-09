@@ -1,0 +1,19 @@
+src/app.ts
+  h_8bc4f3d6bd21bd 1-3,11-22
+  h_8bc4f3d6bd21bd 23-28
+package-lock.json
+  h_8bc4f3d6bd21bd 14,20
+package.json
+  h_8bc4f3d6bd21bd 26,41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "059d1d66b0c429f14a6d8cd359823497a33384c2",
+  "prompts": {},
+  "humans": {
+    "h_8bc4f3d6bd21bd": {
+      "author": "amartya149 <amartya970914@gmail.com>"
+    }
+  }
+}
