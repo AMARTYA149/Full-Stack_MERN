@@ -1,0 +1,18 @@
+eslint.config.mjs
+  h_8bc4f3d6bd21bd 24,27-34
+jest.config.js
+  h_8bc4f3d6bd21bd 7-11
+tsconfig.json
+  h_8bc4f3d6bd21bd 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1dd1b716834d8827f9f10f99b9c55e8c9e1dbb75",
+  "prompts": {},
+  "humans": {
+    "h_8bc4f3d6bd21bd": {
+      "author": "amartya149 <amartya970914@gmail.com>"
+    }
+  }
+}
