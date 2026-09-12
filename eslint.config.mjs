@@ -21,8 +21,15 @@ export default defineConfig(
         rules: {
             // "no-console": "error",
             // "dot-notation": "error",
-            "@typescript-eslint/no-misused-promises": "off"
+            "@typescript-eslint/no-misused-promises": "off",
         },
     },
-    { ignores: ["dist", "node_modules", "eslint.config.mjs", "jest.config.js"] },
+    {
+        ignores: [
+            "dist",
+            "node_modules",
+            "eslint.config.mjs",
+            "jest.config.js",
+        ],
+    },
 );
