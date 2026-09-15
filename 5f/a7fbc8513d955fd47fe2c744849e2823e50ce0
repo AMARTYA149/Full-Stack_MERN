@@ -1,0 +1,22 @@
+tests/users/register.spec.ts
+  h_8bc4f3d6bd21bd 1-45
+src/app.ts
+  h_8bc4f3d6bd21bd 4,12-13
+src/controllers/AuthController.ts
+  h_8bc4f3d6bd21bd 1-7
+jest.config.js
+  h_8bc4f3d6bd21bd 11
+src/routes/auth.ts
+  h_8bc4f3d6bd21bd 1-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5fa7fbc8513d955fd47fe2c744849e2823e50ce0",
+  "prompts": {},
+  "humans": {
+    "h_8bc4f3d6bd21bd": {
+      "author": "amartya149 <amartya970914@gmail.com>"
+    }
+  }
+}
