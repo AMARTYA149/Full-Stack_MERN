@@ -12,9 +12,7 @@
         "target": "esnext",
         "types": ["jest", "node"],
         // For nodejs:
-        "lib": [
-            "es6"
-        ],
+        "lib": ["es6"],
         // "types": ["node"],
         // and npm install -D @types/node
 
@@ -44,6 +42,6 @@
         "moduleDetection": "force",
         "skipLibCheck": true,
         "emitDecoratorMetadata": true,
-        "experimentalDecorators": true,
+        "experimentalDecorators": true
     }
 }
