@@ -1,0 +1,23 @@
+tests/users/register.spec.ts
+  h_8bc4f3d6bd21bd 42-53
+tsconfig.json
+  h_8bc4f3d6bd21bd 16,45-47
+  h_8bc4f3d6bd21bd 15,17
+docs/settingPostgreSQL.md
+  h_8bc4f3d6bd21bd 1-72
+src/app.ts
+  h_8bc4f3d6bd21bd 1
+jest.config.js
+  h_8bc4f3d6bd21bd 11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "75634807cfa4fccc8fbb2032d24f16989ca1ac0c",
+  "prompts": {},
+  "humans": {
+    "h_8bc4f3d6bd21bd": {
+      "author": "amartya149 <amartya970914@gmail.com>"
+    }
+  }
+}
