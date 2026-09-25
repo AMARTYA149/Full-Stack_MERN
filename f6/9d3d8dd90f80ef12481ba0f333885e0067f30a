@@ -1,0 +1,14 @@
+tsconfig.json
+  h_8bc4f3d6bd21bd 15,45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f69d3d8dd90f80ef12481ba0f333885e0067f30a",
+  "prompts": {},
+  "humans": {
+    "h_8bc4f3d6bd21bd": {
+      "author": "amartya149 <amartya970914@gmail.com>"
+    }
+  }
+}
