@@ -1,0 +1,30 @@
+src/index.ts
+  h_8bc4f3d6bd21bd 1-20
+  h_8bc4f3d6bd21bd 21-22
+.env.example
+  h_8bc4f3d6bd21bd 2-6
+  h_8bc4f3d6bd21bd 1
+package.json
+  h_8bc4f3d6bd21bd 7,13-15,29-31,35,43,51,53-54,56
+  h_8bc4f3d6bd21bd 2-6,8-12,16-28,32-34,36-42,44-50,52
+src/entities/User.ts
+  h_8bc4f3d6bd21bd 1-7
+src/config/data-source.ts
+  h_8bc4f3d6bd21bd 1-19
+src/config/index.ts
+  h_8bc4f3d6bd21bd 2-7
+  h_8bc4f3d6bd21bd 8,13-17
+package-lock.json
+  h_8bc4f3d6bd21bd 2-8824
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "037e4f55e5dd8540cd65a6095e4415571653d117",
+  "prompts": {},
+  "humans": {
+    "h_8bc4f3d6bd21bd": {
+      "author": "amartya149 <amartya970914@gmail.com>"
+    }
+  }
+}
