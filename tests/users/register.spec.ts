@@ -81,5 +81,7 @@ describe("POST /auth/register", () => {
         });
     });
 
+    it.todo("should return an id of the created user");
+
     describe("Fields are missing", () => {});
 });
