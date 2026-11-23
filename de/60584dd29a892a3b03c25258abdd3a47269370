@@ -1,0 +1,15 @@
+tests/users/register.spec.ts
+  h_8bc4f3d6bd21bd 84
+  h_8bc4f3d6bd21bd 85
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "de60584dd29a892a3b03c25258abdd3a47269370",
+  "prompts": {},
+  "humans": {
+    "h_8bc4f3d6bd21bd": {
+      "author": "amartya149 <amartya970914@gmail.com>"
+    }
+  }
+}
